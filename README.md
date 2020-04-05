@@ -1,2 +1,2 @@
-# SlingShot-Maze-2
-All the updated files of my SlingShot Maze
+# p5.play-boilerplate
+Boiler plate for p5.play
